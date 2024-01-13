@@ -1,0 +1,14 @@
+C:\Users\Roman\Source\Repos\Figurki\Figurki\bin\Debug\net6.0\Figurki.exe
+C:\Users\Roman\Source\Repos\Figurki\Figurki\bin\Debug\net6.0\Figurki.deps.json
+C:\Users\Roman\Source\Repos\Figurki\Figurki\bin\Debug\net6.0\Figurki.runtimeconfig.json
+C:\Users\Roman\Source\Repos\Figurki\Figurki\bin\Debug\net6.0\Figurki.dll
+C:\Users\Roman\Source\Repos\Figurki\Figurki\bin\Debug\net6.0\Figurki.pdb
+C:\Users\Roman\Source\Repos\Figurki\Figurki\obj\Debug\net6.0\Figurki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\Source\Repos\Figurki\Figurki\obj\Debug\net6.0\Figurki.AssemblyInfoInputs.cache
+C:\Users\Roman\Source\Repos\Figurki\Figurki\obj\Debug\net6.0\Figurki.AssemblyInfo.cs
+C:\Users\Roman\Source\Repos\Figurki\Figurki\obj\Debug\net6.0\Figurki.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Source\Repos\Figurki\Figurki\obj\Debug\net6.0\Figurki.dll
+C:\Users\Roman\Source\Repos\Figurki\Figurki\obj\Debug\net6.0\refint\Figurki.dll
+C:\Users\Roman\Source\Repos\Figurki\Figurki\obj\Debug\net6.0\Figurki.pdb
+C:\Users\Roman\Source\Repos\Figurki\Figurki\obj\Debug\net6.0\Figurki.genruntimeconfig.cache
+C:\Users\Roman\Source\Repos\Figurki\Figurki\obj\Debug\net6.0\ref\Figurki.dll
